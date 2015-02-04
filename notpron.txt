@@ -645,6 +645,7 @@ Level -6: Unsolved
 http://www.deathball.net/notpron/peanut/difference.php
 hints
 <!-- you are not supposed to work with the jpg ffs! -->
-so change the picture.jpg to .zip, and there is a psd file
-so you have 2 files to unscramble
-I found 2 differences: window and dragon
+so change the picture.jpg to .zip, and there is a psd file to unscramble
+Differences:
+- Phone - remote
+- Blanket
